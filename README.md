@@ -9,3 +9,4 @@
 2. Worked in a sandbox VM to identify malicious files and their source IPs. Was in a situation playing a Security Analyst checking on a ransomeware-infected computer of an end-user.
 
 
+![Screenshot (27)](https://user-images.githubusercontent.com/127223469/223534802-015b955b-8cae-4d9e-bfed-f29810445ab9.png)
