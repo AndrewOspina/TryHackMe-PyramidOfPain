@@ -9,4 +9,10 @@
 2. Worked in a sandbox VM to identify malicious files and their source IPs. Was in a situation playing a Security Analyst checking on a ransomeware-infected computer of an end-user.
 
 
-![Screenshot (27)](https://user-images.githubusercontent.com/127223469/223534802-015b955b-8cae-4d9e-bfed-f29810445ab9.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/127223469/223535614-65a487e8-5bc1-426e-8474-b3cfd23dc1e4.png)
+
+
+3. Finished up with doing research using Open-Source tools (such as MetaDefender's OPSWAT) to analyze hashes and to identify the type of attack being conducted using that file's hash.
+
+
+
